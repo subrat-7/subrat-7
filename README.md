@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Subrat Sindhu</h1>
 <h3 align="center">Passionate Data Analyst Dedicated to Excellence in India.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
+
 - 🔭 I’m currently working on **Rapid Roads: Road Safety through Intelligent Surveillance**
 
 - 🌱 I’m currently learning **I am currently honing my skills in Python programming, mastering data visualization with Power BI, Tableau , and delving into predictive modeling techniques.**
