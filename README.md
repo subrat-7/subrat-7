@@ -1,5 +1,6 @@
-<h1 align="center">Hi, I'm Subrat Sindhu</h1>
+<h1 align="center">Hi 👋, I'm Subrat Sindhu</h1>
 <h3 align="center">I am a skilled Data Analyst proficient in data manipulation, statistical analysis, and data visualization using Python, SQL, MS Excel and Tableau/PowerBI with a passion for driving insightful decisions.</h3>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subrat-7&label=Profile%20views&color=0e75b6&style=flat" alt="subrat-7" /> </p>
 
