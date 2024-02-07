@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Subrat Sindhu</h1>
 <h3 align="center">I am a skilled Data Analyst proficient in data manipulation, statistical analysis, and data visualization using Python, SQL, MS Excel and Tableau/PowerBI with a passion for driving insightful decisions.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subrat-7&label=Profile%20views&color=0e75b6&style=flat" alt="subrat-7" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **Rapid Roads: Road Safety through Intelligent Surveillance**
 
@@ -16,7 +13,7 @@
 
 - 📫 How to reach me **subratmsd7@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1HdB40_IW68SWP1j0TWjxl3fTvOwvnDeT/view?usp=sharing](https://drive.google.com/file/d/1HdB40_IW68SWP1j0TWjxl3fTvOwvnDeT/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1F7H7tFKTKYGlDhKs1EmYhFSi7zJ3OYWM/view?usp=sharing](https://drive.google.com/file/d/1F7H7tFKTKYGlDhKs1EmYhFSi7zJ3OYWM/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
